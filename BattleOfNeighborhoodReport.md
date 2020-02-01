@@ -47,3 +47,16 @@ There are already quite a few shops that are there for Women's and Men's. So, if
 
 **"Less competition, lesser the risks".** Also, with our boss previous project, he is aware that there are many kids in that region. That could pull the crowd. 
  ![Alt text](https://github.com/sakthishanmugam02/Coursera_Capstone/blob/master/BarChartOnShopCountBasedOnCategory.png "Shop count based on category")
+
+#### Based on the available information so far.
+We can assure our friends that both the shop's popularity is on average (around 6-7). 
+Only very few people have liked it too.  
+
+##### The popularity of existing shops
+ ![Alt text](https://github.com/sakthishanmugam02/Coursera_Capstone/blob/master/popularity-table.png "The popularity of existing shops")
+
+##### The Popularity Analysis
+ ![Alt text](https://github.com/sakthishanmugam02/Coursera_Capstone/blob/master/popularity-bar.png "The Popularity Analysis")
+
+#### Findings:
+So far, we figured out opening a Kids shop is a much better option compared to other Clothing categories since competition is very less. Plus, two shops that are located in the Kids category is received lesser popularity. With a good marketing strategy, it is easy to reach people's knowledge. 
