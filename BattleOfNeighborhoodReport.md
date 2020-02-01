@@ -38,4 +38,12 @@ _Analyzing the data through various visualization approaches of data science met
 ## Exploratory Data Analysis
 
 ### Statistical data of shop based on its category. 
-[link text](http://url)
+#### Observation and analysis based on the above results are as follows:
+With these data, we are sure that there are very few options for Kids Clothing across the Manhattan region. 
+
+_It could be a good idea if our boss's friend opens up a Kids Store._
+
+There are already quite a few shops that are there for Women's and Men's. So, if they open up a new shop in those categories, then they might end up facing heavy competition from others. 
+
+**"Less competition, lesser the risks".** Also, with our boss previous project, he is aware that there are many kids in that region. That could pull the crowd. 
+ ![Alt text](https://github.com/sakthishanmugam02/Coursera_Capstone/blob/master/BarChartOnShopCountBasedOnCategory.png "Shop count based on category")
