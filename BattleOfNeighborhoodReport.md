@@ -60,3 +60,9 @@ Only very few people have liked it too.
 
 #### Findings:
 So far, we figured out opening a Kids shop is a much better option compared to other Clothing categories since competition is very less. Plus, two shops that are located in the Kids category is received lesser popularity. With a good marketing strategy, it is easy to reach people's knowledge. 
+
+## Conclusion:
+Based on the analysis, we would recommend our friends to start a Kids Store in Manhattan, New York City. 
+
+## Future Directions:
+The recommendation is to start exploring the right options to marketing channels. Let's try to win people's hearts.
