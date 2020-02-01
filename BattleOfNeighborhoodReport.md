@@ -31,5 +31,5 @@ __Note:__ <br>
 _Analyzing the data through various visualization approaches of data science methodology using appropriate python library is part of Ankur's plan_
 
 ***
-$$ END-OF-PROBLEM-STATEMENT $$
+<p align="center"> END-OF-PROBLEM-STATEMENT </p>
 ***
