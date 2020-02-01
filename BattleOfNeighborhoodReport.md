@@ -32,4 +32,8 @@ _Analyzing the data through various visualization approaches of data science met
 
 ***
 <p align="center"> END-OF-PROBLEM-STATEMENT </p>
+
 ***
+
+### Statistical data of shop based on its category. 
+[link text](http://url)
